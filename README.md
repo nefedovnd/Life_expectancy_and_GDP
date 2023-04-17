@@ -1,6 +1,6 @@
 # 🌎 Life expectancy and GDP relationship across countries.
 
-This is my second Pyhton project (of Codecademy data science course)
+This is my second Pyhton project (of Codecademy data science course).
 This project analyses whether there is a relationship between economic performance of a country and life expectancy of its citizens.
 
 Project aims:
